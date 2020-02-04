@@ -39,7 +39,7 @@ git push -u orgin master
 1. Create Git Hub Repository
 2. Copy the URL to the remote repository
 3. Open your terminal to where you would like your folder to be located
-4. 
+4. Clone your Git Hub Repository
 ```
 git clone *URL HERE*
 ```
@@ -58,7 +58,7 @@ git commit -m ""
  git push -u origin master
  ```
 
- 
+
 
 
 
