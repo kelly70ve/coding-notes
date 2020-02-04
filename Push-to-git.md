@@ -37,23 +37,31 @@ git push -u orgin master
 # How to Push to Git Hub with a README.md
 
 1. Create Git Hub Repository
+
 2. Copy the URL to the remote repository
+
 3. Open your terminal to where you would like your folder to be located
+
 4. Clone your Git Hub Repository
 ```
 git clone *URL HERE*
 ```
+
 5. Start adding your files to your folder
+
 6. Add your files to git. This "stages" them
 
 ```
  git add .
  ```
+ 
 7. Commit the files 
+
 ```
 git commit -m ""
 ```
 8. Push Changes to Git Hub
+
 ```
  git push -u origin master
  ```
