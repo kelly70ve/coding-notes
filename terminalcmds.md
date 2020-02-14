@@ -4,11 +4,11 @@
 
 ### What's in here?
 ```
-ls
+ls (list)
 ```
 ### Where am I?
 ```
-pwd
+pwd (present working directory)
 ```
 ### Show all the commands you have run
 ```
@@ -16,7 +16,11 @@ history
 ```
 ### Clear output 
 ```
-cmd k
+cmd k OR clear
+```
+### Search previous commands
+```
+CTRL+r
 ```
 
 ---
@@ -27,7 +31,7 @@ cd
 ```
 ### Create a new directory
 ```
-mkdir
+mkdir (make directory)
 ```
 ---
 ## **Files**
@@ -37,11 +41,11 @@ touch
 ```
 ### Remove a file
 ```
-rm
+rm (remove)
 ```
 ### Rename a file
 ```
-mv
+mv (move)
 ```
 ---
 
